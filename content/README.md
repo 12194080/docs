@@ -1,4 +1,6 @@
-# Content <!-- omit in toc -->
+# Content <!-- omit in toc -->git remote add origin https://github.com/12194080/Yanto-kopral-.git
+git branch -M main
+git push -u origin main
 
 The `/content` directory is where all the site's (English) Markdown content lives!
 
@@ -97,7 +99,7 @@ Example:
 title: Getting started with GitHub Desktop
 redirect_from:
   - /articles/first-launch/
-  - /articles/error-github-enterprise-version-is-too-old/
+  - /articles/error-github-enterprise-version-ais-too-old/
   - /articles/getting-started-with-github-for-windows/
 ```
 
